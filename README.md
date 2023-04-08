@@ -105,8 +105,9 @@ In order to complete this assignment, you must do the following:
 This assignment will be graded via peer assessment.
 
 
-Solution -  
-## A pair of functions that cache the inverse of a matrix
+Solution - 
+
+ ## A pair of functions that cache the inverse of a matrix
 
 
 ## Creates a special matrix object that can cache its inverse
@@ -171,3 +172,4 @@ cacheSolve <- function(x, ...) {
     ## Return the matrix
     m
 }
+
